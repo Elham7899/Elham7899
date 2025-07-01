@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Elham — Backend Developer (.NET/C#)
 
-<!--
-**Elham7899/Elham7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I'm passionate about building scalable backend systems and APIs  
+🧠 Currently learning: Advanced .NET, Clean Architecture, and English fluency  
+🚀 Goal: Relocate to Europe (Finland or Netherlands) as a backend engineer  
+📫 How to reach me: eli.ghorbanzade99@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/elham-ghorbanzade-909823200 
+🛠 Tech stack: C#, .NET Core, EF Core, SQL, REST APIs, Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Projects I'm Proud Of
+
+- 🛒 [SimpleECommerceAPI](https://github.com/Elham7899/SimpleECommerceAPI)  
+  A complete e-commerce backend system built with .NET Web API and EF Core.
+
+- ✅ [Task Manager API](https://github.com/Elham7899/YOUR_REPO_NAME)  
+  A productivity API with JWT auth and task filters.
+
+---
+
+### 📈 GitHub Stats
+
+![Elham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elham7899&show_icons=true&theme=radical)
